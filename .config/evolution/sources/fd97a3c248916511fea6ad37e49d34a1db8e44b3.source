@@ -1,0 +1,53 @@
+[Data Source]
+DisplayName=rakotonindrinasandiarivelo12@gmail.com
+Enabled=true
+Parent=2460996e7dd50b7c9b18bc36911352c5a8261a70
+
+[Offline]
+StaySynchronized=false
+
+[Authentication]
+Host=imap-mail.outlook.com
+Method=XOAUTH2
+Port=993
+ProxyUid=system-proxy
+RememberPassword=true
+User=rakotonindrinasandiarivelo12@gmail.com
+CredentialName=
+
+[Mail Account]
+BackendName=imapx
+IdentityUid=e7b30246e25be4c02d7031b1b103681e2ee2e37d
+ArchiveFolder=
+NeedsInitialSetup=true
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Imapx Backend]
+FilterInbox=true
+StoreChangesInterval=3
+LimitByAge=false
+LimitUnit=years
+LimitValue=1
+UseMultiFetch=false
+CheckAll=false
+CheckSubscribed=false
+ConcurrentConnections=3
+FetchOrder=ascending
+FilterAll=false
+FilterJunk=false
+FilterJunkInbox=false
+Namespace=
+RealJunkPath=
+RealTrashPath=
+ShellCommand=ssh -C -l %u %h exec /usr/sbin/imapd
+UseIdle=false
+UseNamespace=false
+UseQresync=false
+UseRealJunkPath=false
+UseRealTrashPath=false
+UseShellCommand=false
+UseSubscriptions=false
+IgnoreOtherUsersNamespace=false
+IgnoreSharedFoldersNamespace=false

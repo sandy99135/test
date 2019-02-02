@@ -1,0 +1,20 @@
+[Data Source]
+DisplayName=rakotonindrinasandiarivelo12@gmail.com
+Enabled=true
+Parent=
+
+[GNOME Online Accounts]
+AccountId=account_1549113574_1
+CalendarUrl=
+ContactsUrl=
+Name=
+Address=rakotonindrinasandiarivelo12@gmail.com
+
+[Collection]
+BackendName=outlook
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=76924a613ecb820f
+MailEnabled=true
+CalendarUrl=
+ContactsUrl=

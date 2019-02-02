@@ -1,0 +1,28 @@
+[Data Source]
+DisplayName=rakotonindrinasandiarivelo12@gmail.com
+Enabled=true
+Parent=2460996e7dd50b7c9b18bc36911352c5a8261a70
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+
+[Mail Identity]
+Address=rakotonindrinasandiarivelo12@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=9d8483477e6d65b854e0e8ad98d72fd1b35b53d5
+RepliesToOriginFolder=false
+UseSentFolder=true

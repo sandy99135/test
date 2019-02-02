@@ -1,0 +1,16 @@
+[Data Source]
+DisplayName=Contacts
+Enabled=true
+Parent=0bd617ee029d04cb2408ec9ca27a80e84f04bff7
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=rakotonindrinasandiarivelo12@gmail.com
+CredentialName=
+
+[Address Book]
+BackendName=google
