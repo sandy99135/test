@@ -1,0 +1,25 @@
+[Data Source]
+DisplayName=My Tasks
+Enabled=true
+Parent=0bd617ee029d04cb2408ec9ca27a80e84f04bff7
+
+[Task List]
+BackendName=gtasks
+Color=#becedd
+Selected=true
+
+[Resource]
+Identity=gtasks::MDkyMTI1MjM5ODg3NjIzNjQwNjU6MDow
+
+[Authentication]
+Host=www.google.com
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=rakotonindrinasandiarivelo12@gmail.com
+CredentialName=
+
+[Alarms]
+IncludeMe=false
+LastNotified=

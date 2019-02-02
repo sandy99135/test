@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=rakotonindrinasandiarivelo12@gmail.com
+Enabled=true
+Parent=2460996e7dd50b7c9b18bc36911352c5a8261a70
+
+[Mail Transport]
+BackendName=smtp
+
+[Authentication]
+Host=smtp-mail.outlook.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=rakotonindrinasandiarivelo12@gmail.com
+CredentialName=
+
+[Security]
+Method=starttls-on-standard-port

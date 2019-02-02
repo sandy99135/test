@@ -1,0 +1,18 @@
+[+0,00s] DEBUG: simple-scan.vala:638: Starting Simple Scan 3.30.1.1, PID=5064
+[+0,20s] DEBUG: app-window.vala:1715: Loading state from /home/sandy/.cache/simple-scan/state
+[+0,20s] DEBUG: app-window.vala:1672: Restoring window to 600x400 pixels
+[+0,20s] DEBUG: autosave-manager.vala:64: Loading autosave information
+[+0,20s] DEBUG: autosave-manager.vala:259: Waiting to autosave...
+[+0,66s] DEBUG: autosave-manager.vala:281: Autosaving book information
+[+0,68s] DEBUG: scanner.vala:1461: sane_init () -> SANE_STATUS_GOOD
+[+0,68s] DEBUG: scanner.vala:1467: SANE version 1.0.27
+[+0,68s] DEBUG: scanner.vala:1528: Requesting redetection of scan devices
+[+0,68s] DEBUG: scanner.vala:806: Processing request
+[+0,85s] DEBUG: app-window.vala:1776: Saving state to /home/sandy/.cache/simple-scan/state
+[+0,99s] DEBUG: app-window.vala:1776: Saving state to /home/sandy/.cache/simple-scan/state
+[+3,71s] DEBUG: autosave-manager.vala:195: Deleting autosave records
+[+3,71s] DEBUG: scanner.vala:1604: Stopping scan thread
+[+9,73s] DEBUG: scanner.vala:341: sane_get_devices () -> SANE_STATUS_GOOD
+[+9,73s] DEBUG: scanner.vala:806: Processing request
+[+9,74s] DEBUG: scanner.vala:1615: sane_exit ()
+[+9,75s] CRITICAL: app_window_set_scan_devices: assertion 'self != NULL' failed

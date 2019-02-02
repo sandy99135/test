@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" open-window-count="1" score="330" last-seen="1549119743"/>
+    <application id="gnome-sudoku.desktop" open-window-count="0" score="1" last-seen="1549116501"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="13" last-seen="1549115985"/>
+    <application id="update-manager.desktop" open-window-count="0" score="5" last-seen="1549116045"/>
+    <application id="gnome-session-properties.desktop" open-window-count="0" score="2" last-seen="1549113581"/>
+    <application id="rhythmbox.desktop" open-window-count="0" score="1" last-seen="1549116408"/>
+    <application id="simple-scan.desktop" open-window-count="0" score="1" last-seen="1549117298"/>
+    <application id="libreoffice-draw.desktop" open-window-count="0" score="5" last-seen="1549116057"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="286" last-seen="1549119597"/>
+    <application id="libreoffice-impress.desktop" open-window-count="0" score="12" last-seen="1549116401"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="69" last-seen="1549116116"/>
+    <application id="org.gnome.Software.desktop" open-window-count="1" score="161" last-seen="1549119604"/>
+  </context>
+</application-state>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<root>
+  <pages>
+    <page name="RBLibrarySource">'Piste','Morceau','Genre','Artiste','Album','Compositeur','Ann&#233;e','Dur&#233;e','Qualit&#233;','Nombre de lectures','BPM','Commentaire','Emplacement','Note','Derni&#232;re lecture','Date d'ajout'</page>
+    <RBLibrarySource column="Piste" width="43" />
+    <RBLibrarySource column="Morceau" width="213" />
+    <RBLibrarySource column="Genre" width="194" />
+    <RBLibrarySource column="Artiste" width="200" />
+    <RBLibrarySource column="Album" width="198" />
+    <RBLibrarySource column="Compositeur" width="0" />
+    <RBLibrarySource column="Ann&#233;e" width="0" />
+    <RBLibrarySource column="Dur&#233;e" width="61" />
+    <RBLibrarySource column="Qualit&#233;" width="0" />
+    <RBLibrarySource column="Nombredelectures" width="0" />
+    <RBLibrarySource column="BPM" width="0" />
+    <RBLibrarySource column="Commentaire" width="0" />
+    <RBLibrarySource column="Emplacement" width="0" />
+    <RBLibrarySource column="Note" width="0" />
+    <RBLibrarySource column="Derni&#232;relecture" width="0" />
+    <RBLibrarySource column="Datedajout" width="0" />
+  </pages>
+  <database>1</database>
+</root>
