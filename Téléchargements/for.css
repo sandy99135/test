@@ -1,0 +1,67 @@
+body{
+  background-color:#E0FFFF;
+  text-align:center;
+  font-family:Raleway;
+}
+h1
+{
+  font-family:Lobster;
+}
+h2{
+  color:#1E90FF;
+}
+#remplissage
+{
+   background-color: rgb(250, 250, 250);
+  margin: 0 auto;
+  border-radius: 4px;
+  width: 75%;
+  max-width: 900px;
+  padding: 10px;
+  padding-top: 20px;
+}
+.rightlab {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: middle;
+}
+.label {
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+  padding: 5px;
+  vertical-align: center;
+  margin-top: 10px;
+}
+
+.opt{
+  display:flex;
+  padding-left:1px
+ 
+}
+.check{
+  position: relative;
+  left: -43px;
+  margin-left: 10px;
+  display: block;
+  padding-bottom: 10px;
+}
+.rightlab1{
+  margin-left:0px;
+  padding-top:20px;
+}
+.rowlab1{
+  padding-bottom:20px;
+}
+#submit
+{
+  background-color:#E0FFFF ;
+  width:100px;
+  height:30px;
+  font-size:1.1em;
+}
+#submit:hover{
+  background-color:#1E90FF;
+}
+

@@ -1,0 +1,98 @@
+body {
+	background-color: rgb(179, 181, 176);
+}
+.head{
+	background-color: rgb(109, 97, 120);
+	padding-top: 20px;
+	padding-left: 20px;
+	height: 50px;
+	width: 98%;
+	border: 1px solid black;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+header label{
+	margin-right: 100px;
+	top : 25px;
+	color: white;
+}
+
+.sectionBDB{
+	display: flex;
+}
+
+.sectionBDB1{
+	display: flex;
+	flex-direction : column; 
+}
+
+.section1{
+	width: 75%;
+	height: 400px;
+	left : 30px;
+	background-color: rgb(237, 5, 5);
+	margin-top: 20px;
+	border: 1px solid black;
+
+}
+
+.section2{
+	width: 400px;
+	height: 190px;
+	top: 200px;
+	background-color: white;
+	border: 1px solid black;
+	float: right;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.section3{
+	width: 400px;
+	height: 190px;
+	top: 200px;
+	border: 1px solid black;
+	background-color: rgb(250, 211, 232);
+	float: right;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.input {
+	margin-top: 10px;
+	margin-left: 50px;
+	padding-left: 20px;
+	left: 50px;
+	width:150px;
+}
+
+.footer {
+	background-color: rgb(109, 97, 120);
+	padding-top: 20px;
+	padding-left: 20px;
+	height:170px;
+	width: 98%;
+	border: 1px solid black;
+	margin-top: 20px;
+	background-image:url("monimage.png");
+	background-size:25%;
+
+}
+
+.label
+footer label {
+	width: 200px;
+}
+button {
+	margin-left : 223px;
+	margin-top: 20px;
+	background-color: silver;
+	border:1px;
+	border-radius: 1px;
+
+}
+
